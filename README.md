@@ -1,5 +1,8 @@
 # Brain Tissue Segmentation from Magnetic Resonance Images Using Deep Learning
 
+Author(s): **Mohammad Imran Hossain**, Muhammad Zain Amin
+<br>University of Girona (Spain), Erasmus Mundus Joint Master in Medical Imaging and Applications
+
 **Abstract:** The segmentation of brain tissues in Magnetic Resonance Imaging (MRI) is vital for investigating neurodegenerative diseases such as Alzheimer's, Parkinson's, and Multiple Sclerosis (MS). This process goes beyond accurate diagnosis, enabling quantitative analysis and fostering advancements in personalized medicine and targeted therapies. This project explores the effectiveness of several deep learning models—U-Net, nnU-Net, and LinkNet—in segmenting MRI brain tissues using the IBSR18 dataset. Utilizing pre-trained weights from ImageNet, including ResNet 34 and ResNet 50 as backbones for U-Net and LinkNet, enhances the models' performance and feature extraction capabilities. Performance assessment reveals the superior capability of 3D nnU-Net, achieving an average mean **Dice Score** of **0.937 ± 0.012**. Noteworthy, 2D nnU-Net excels in **Hausdorff Distance (5.005 ± 0.343)** and **Absolute Volumetric Difference (3.695 ± 2.931)**. This comprehensive analysis underscores the unique strengths of each model in different facets of brain tissue segmentation.
 
 # Dataset 
@@ -86,6 +89,7 @@ Beyond visualizing the segmented results, a comprehensive performance analysis i
 <p align="center">
   <img src="https://github.com/imran-maia/IBSR_18_BraTSeg_Deep_Learning/assets/122020364/ba4958da-0121-4598-8dcf-67d5f6dd4892" width="700" alt="Segmentation Result">
 </p>
+
 
 
 
