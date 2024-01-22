@@ -1,3 +1,4 @@
 
 *.keras
 *.gz
+*.DS_Store
