@@ -73,7 +73,7 @@ However, in this project, we have explored the first two configurations 2D nn-UN
 
 
 # Results
-To assess the performance of our brain tissue segmentation models, we employed three key metrics: Dice Coefficient Score (DSC), Hausdorff Distance (HD), and Absolute Volumetric Distance (HVD). The visual representation of predicted segmentation results from each deep-learning model is illustrated in Figure 3. 
+To assess the performance of our brain tissue segmentation models, we employed three key metrics: Dice Coefficient Score (DSC), Hausdorff Distance (HD), and Absolute Volumetric Distance (AVD). The visual representation of predicted segmentation results from each deep-learning model is illustrated in Figure 3. 
 
 <p align="center">
   <img src="https://github.com/imran-maia/IBSR_18_BraTSeg_Deep_Learning/assets/122020364/686014f4-7b50-44a0-a29d-a2cc4221e231" width="500" alt="Segmentation Result">
