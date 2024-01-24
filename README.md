@@ -1,4 +1,4 @@
-# Brain Tissue Segmentation from Magnetic Resonance Images Using Deep Learning
+# Brain Tissue Segmentation from Magnetic Resonance Image Using Deep Learning
 
 Author(s): **Mohammad Imran Hossain**, Muhammad Zain Amin
 <br>University of Girona (Spain), Erasmus Mundus Joint Master in Medical Imaging and Applications
