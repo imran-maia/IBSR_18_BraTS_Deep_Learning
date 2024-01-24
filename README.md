@@ -91,6 +91,7 @@ Beyond visualizing the segmented results, a comprehensive performance analysis i
 </p>
 
 
+- We secured the **2nd position** in the IBSR 18 Brain Tissue Segmentation Challenge organised by the consortium of Erasmus Mundus Joint Master in Medical Imaging and Applications at the University of Girona (Spain).
 
 
 
