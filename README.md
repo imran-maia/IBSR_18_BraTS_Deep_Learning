@@ -93,5 +93,6 @@ Beyond visualizing the segmented results, a comprehensive performance analysis i
 
 - We secured the **2nd position** in the IBSR 18 Brain Tissue Segmentation Challenge organised by the consortium of Erasmus Mundus Joint Master in Medical Imaging and Applications at the University of Girona (Spain).
 
+- The implementation of Brain Tissue Segmentation Using Probabilistic ATLAS is available [here](https://github.com/imran-maia/IBSR_18_BraTSeg_ATLAS).
 
 
